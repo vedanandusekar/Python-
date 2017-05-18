@@ -1,0 +1,11 @@
+z = input()
+x = len(z)-1
+flag = 0 
+for i in range(x):
+    if z[i] == z[x-i]
+        flag == 1
+    else:
+        flag == 0
+if flag == 1:
+    print "string is palindrom"
+
